@@ -1,0 +1,201 @@
+/* COLOR PALETTE */
+.color1 {
+    background-color: #FFF07C;
+} .color2 {
+    background-color: #80FF72;
+} .color3 {
+    background-color: #09CAEC;
+} .color4 {
+    background-color: #EEC0C6;
+} .color5 {
+    background-color: #DE6A68;
+}
+
+
+/* HEADER AREA */
+.site-title {
+    color: #DE6A68;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    margin: 1rem 0;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+#donate-btn {
+    background-color: #80FF72;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    margin: 20px;
+}
+
+#donate-btn:hover {
+    transform: scale(1.1);
+    transition: 500ms;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #09CAEC;
+}
+
+
+
+/* ROW 1 */
+.row-area {
+    margin: 1rem 0;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+}
+
+hr {
+    background-color: #80FF72;
+    border-width: 4px 0;
+    margin: 10px 0;
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+/* ROW 2 */
+.card {
+    border: 3px solid #EEC0C6;
+}
+
+.cropped {
+    border: 3px solid #EEC0C6;
+    background-color: #EEC0C6;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;    
+    margin-right: 10px;
+}
+
+h3 {
+    color: #DE6A68;
+    font-family: 'Poppins', sans-serif;
+}
+
+h5 {
+    color: #DE6A68;
+    font-family: 'Poppins', sans-serif;
+}
+
+h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-text {
+    font-size: 0.8rem;
+}
+
+#bunny-cards {
+    max-height: 250px;
+    border-radius: 20px;
+}
+
+#bunny-cards:hover {
+    background: #EEC0C6;
+}
+
+.scrollable {
+    overflow-y: auto;
+    max-height: 110px;
+}
+
+#section {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+#adoption-form {
+    color: #09CAEC;
+}
+
+label {
+    font-family: 'Poppins', sans-serif;
+}
+
+#donate-page {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+#donate-form {
+    padding: 20px;
+}
+
+#donate-submit {
+    font-family: 'Roboto Slab', serif;
+}
+
+#photo-card {
+    background-color: #EEC0C6;
+    margin-bottom: 1rem;
+}
+
+#mission-card {
+    margin-bottom: 1rem;
+}
+
+.about-photos {
+    width: 100%;
+    background-color: #EEC0C6;
+    object-fit: cover;
+}
+
+#longer-photo {
+    max-height: 537px;
+}
+
+
+/* FOOTER AREA */
+footer {
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+#email-form {
+    margin: 5px;
+    background-color: white;
+    border: 4px solid #09CAEC;
+    border-radius: 0;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+input {
+    font-family: 'Roboto Slab', serif;
+}
+
+#icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact {
+    padding: 10px;
+    font-size: 3rem;
+    color: black;
+}
+
+#contact:hover {
+    color: #09CAEC;
+}
